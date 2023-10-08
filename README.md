@@ -1,5 +1,5 @@
 <div class="hi">
-    <img height="80" width="80" src="https://static.wixstatic.com/media/e22ba2_6bfc7cece3dc4cff8964b50dbb61d586~mv2.gif">
+    <img height="80" width="80" src="https://static.wixstatic.com/media/e22ba2_6bfc7cece3dc4cff8964b50dbb61d586~mv2.gif" alt="Hi!">
     <h1>
     I'm Laiwer
     </h1>
@@ -7,7 +7,7 @@
 
 <div class="about-me">
     <p align="center">
-        <img src="https://img.shields.io/github/watchers/Laiwer/Laiwer?color=00DFFF&style=plastic">
+        <img src="https://img.shields.io/github/watchers/Laiwer/Laiwer?color=00DFFF&style=plastic" alt="Watchers">
     </p>
     <h3 align="center">
         <span style="font-size: 25px;">👨‍💻 Обо мне</span>
@@ -18,30 +18,30 @@
     <p style="font-size: 17px;">
     🎧 Иногда хочется ничего не делять и просто программировать под расслабляющюю музыку.
     </p>
-    <h4 style="font-size: 18px; padding-bottom: 20px;">
+    <p style="font-size: 18px; padding-bottom: 20px;">
     🌟 Всегда готов изучать что-то новое. У меня всегда полно идеи и хочу постоянно развиваться.   
-    </h4>
+    </p>
 </div>
 
 <div class="skills" align="center">
     <h3>
         <span style="font-size: 25px;">🛠️ Навыки и инструменты</span>
     </h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="60" height="60" style="margin-left: 1px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
-    <img src="https://cdn.simpleicons.org/unity/ffffff" width="60" height="60" style="margin-left: 5px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5" width="60" height="60" style="margin-left: 1px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS 3" width="60" height="60" style="margin-left: 5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin-left: 5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" style="margin-left: 5px;"/>
+    <img src="https://cdn.simpleicons.org/unity/ffffff" width="60" height="60" style="margin-left: 5px;" alt="Unity"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60" style="margin-left: 5px;"/>
     <p>
-        <img src="https://www.codewars.com/users/Laiwers/badges/large"/>
+        <img src="https://www.codewars.com/users/Laiwers/badges/large" alt="Codewars Stats"/>
     </p>
 </div>
 
 <div class="github-stats">
     <h3 align="center">
-    <img height="28" width="35" src="https://cdn.simpleicons.org/github/ffffff" alt="Github Logo"/>
+    <img height="28" width="28" src="https://cdn.simpleicons.org/github/ffffff" alt="Github Logo"/>
         <span style="font-size: 25px; font-weight: bold; padding-right: 800px;">Статистика профиля на Github</span>
     </h3>
     <p align="center">
@@ -66,8 +66,8 @@
 
 <div class="pin-repo-telegram-bots">
     <h3 align="center">
-    <img height="28" width="35" src="https://cdn.simpleicons.org/telegram" alt="Telegram Logo"/>
-        <span style="font-size: 25px; font-weight: bold; padding-right: 700px;">Телеграм боты</span>
+    <img height="28" width="28" src="https://cdn.simpleicons.org/telegram" alt="Telegram Logo"/>
+    Телеграм боты
     </h3>
     <p align="center">
         <a href="https://github.com/Laiwer/Faker_Bot">
