@@ -7,8 +7,7 @@
 
 <div class="about-me">
     <p align="center">
-        <img src="https://img.shields.io/github/stars/Laiwer/Laiwer?color=00FFF3&style=plastic">
-        <img src="https://img.shields.io/github/watchers/Laiwer/Laiwer?color=00C0FF&style=plastic">
+        <img src="https://img.shields.io/github/watchers/Laiwer/Laiwer?color=00DFFF&style=plastic">
     </p>
     <h3 align="center">
         <span style="font-size: 25px;">👨‍💻 Обо мне</span>
@@ -29,7 +28,7 @@
         <span style="font-size: 25px;">🛠️ Навыки и инструменты</span>
     </h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="60" height="60" style="margin-left: 1px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="" width="60" height="60" style="margin-left: 5px;"/>
@@ -51,16 +50,16 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Laiwer&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Laiwer's Github Profile Statistics"/>
     </p>
-    <p align="center">
+    <!-- <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laiwer&theme=tokyo-night" alt=""/>
-    </p>
+    </p> -->
 </div>
 
 <!-- <div class="rating">
+    <h3 align="center">
+    🏆 Трофеи
+    </h3>
     <p align="center">
-        <span style="font-size: 25px; font-weight: bold;">🏆 Трофеи</span>
-    </p>
-    <p align="center" style="margin-top: 10px;">
         <img src="https://github-profile-trophy.vercel.app/?username=Laiwer&theme=tokyonight&margin-w=15" alt="">
     </p>
 </div> -->
