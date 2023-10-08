@@ -1,6 +1,6 @@
 <div class="hi">
     <img height="80" width="80" src="https://static.wixstatic.com/media/e22ba2_6bfc7cece3dc4cff8964b50dbb61d586~mv2.gif">
-    <h1 style="font-size: 40px; padding-left: 10px;">
+    <h1 style="font-size: 40px;">
     I'm Laiwer
     </h1>
 </div>
@@ -12,9 +12,9 @@
     <p style="font-size: 15px; font-weight: 400;">
     Я начинающий программист. По началу начинал изучать программирование на офлайн курсе, но он закрылся из-за ухода преподавателя 😥. С этого курса я получил основы языка программирования 🐍 Python, но это не главное. Главное что я понял, я хочу заниматься программированием не смотря не на что. Мне очень сильно понравилось это занятие и ему я посвящу всю свою жизнь. 🎧 <span style="font-weight: 700; font-style: italic">Иногда хочется ничего не делять и просто программировать под расслабляющюю музыку.</span>
     </p>
-    <h5 style="font-size: 18px; padding-bottom: 20px;">
+    <h4 style="font-size: 18px; padding-bottom: 20px;">
     🌟 Всегда готов изучать что-то новое. У меня всегда полно идеи и хочу постоянно развиваться.   
-    </h5>
+    </h4>
 </div>
 
 <div class="skills" align="center">
@@ -39,8 +39,10 @@
         <span style="font-size: 25px; font-weight: bold; padding-right: 800px;">Статистика профиля на Github</span>
     </h3>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Laiwer&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Laiwer's Github Profile Statistics"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiwer&layout=compact&theme=tokyonight" alt="Most Used Languages Laiwer's on Github"/>
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Laiwer&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Laiwer's Github Profile Statistics"/>
     </p>
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laiwer&theme=tokyo-night" alt=""/>
