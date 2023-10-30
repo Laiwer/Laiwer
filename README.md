@@ -41,8 +41,8 @@
 
 <div class="github-stats">
     <h3 align="center">
-    <img height="28" width="28" src="https://cdn.simpleicons.org/github/ffffff" alt="Github Logo"/>
-        <span style="font-size: 25px; font-weight: bold; padding-right: 800px;">Статистика профиля на Github</span>
+        <img height="28" width="28" src="https://cdn.simpleicons.org/github/ffffff" alt="Github Logo"/>
+        Статистика профиля на Github
     </h3>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiwer&layout=compact&theme=tokyonight" alt="Most Used Languages Laiwer's on Github"/>
@@ -50,19 +50,16 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Laiwer&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Laiwer's Github Profile Statistics"/>
     </p>
-    <!-- <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laiwer&theme=tokyo-night" alt=""/>
-    </p> -->
 </div>
 
-<!-- <div class="rating">
-    <h3 align="center">
-    🏆 Трофеи
-    </h3>
+<div class="pin-repo-funy-project">
+    <h3 align="center">💡 Интерсеные проекты</h3>
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Laiwer&theme=tokyonight&margin-w=15" alt="">
+        <a href="https://github.com/Laiwer/Find-face-on-Python">
+            <img src="https://github-readme-stats.vercel.app/api/pin?username=Laiwer&repo=Find-face-on-Python&theme=tokyonight&show_owner=true" alt="Laiwer/Find-face-on-Python"/>
+        </a>
     </p>
-</div> -->
+</div>
 
 <div class="pin-repo-telegram-bots">
     <h3 align="center">
